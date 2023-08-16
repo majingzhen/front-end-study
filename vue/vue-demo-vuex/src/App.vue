@@ -32,7 +32,6 @@ export default {
       //this.$store.dispatch("asyncAddCounter")
       this.asyncAddCounter()
     }
-
   },
 }
 </script>
